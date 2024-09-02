@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redeem_wsr/static/css/main.953250c6.chunk.css",
+    "main.js": "/redeem_wsr/static/js/main.0b6142ad.chunk.js",
+    "main.js.map": "/redeem_wsr/static/js/main.0b6142ad.chunk.js.map",
+    "runtime-main.js": "/redeem_wsr/static/js/runtime-main.aad47e7f.js",
+    "runtime-main.js.map": "/redeem_wsr/static/js/runtime-main.aad47e7f.js.map",
+    "static/js/2.5070ebec.chunk.js": "/redeem_wsr/static/js/2.5070ebec.chunk.js",
+    "static/js/2.5070ebec.chunk.js.map": "/redeem_wsr/static/js/2.5070ebec.chunk.js.map",
+    "index.html": "/redeem_wsr/index.html",
+    "precache-manifest.3b79e582cb913dcc1150faf92db932bd.js": "/redeem_wsr/precache-manifest.3b79e582cb913dcc1150faf92db932bd.js",
+    "service-worker.js": "/redeem_wsr/service-worker.js",
+    "static/css/main.953250c6.chunk.css.map": "/redeem_wsr/static/css/main.953250c6.chunk.css.map",
+    "static/js/2.5070ebec.chunk.js.LICENSE.txt": "/redeem_wsr/static/js/2.5070ebec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aad47e7f.js",
+    "static/js/2.5070ebec.chunk.js",
+    "static/css/main.953250c6.chunk.css",
+    "static/js/main.0b6142ad.chunk.js"
+  ]
+}

@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 h1 {
-  color: #FFFFFF;
+  color: #5644B4;
   font-family: Roboto;
   font-size: 40px;
   font-weight: 700;
@@ -148,7 +148,7 @@ a {
   height: 60px;
   margin: auto;
   border-radius: 10px;
-  background-color: #282E76;
+  background-color: #D95C7A;
   display: flex;
   cursor: pointer;
 }

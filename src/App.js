@@ -7,7 +7,7 @@ import dataMap from './RedeemCode_WitchSpringR.json';
 const divStyle = {
   width: '100%',
   height: 'auto',
-  backgroundImage: 'url(./images/Background.jpg)',
+  backgroundImage: 'url(./images/Background.png)',
   backgroundPosition: 'center',
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
@@ -57,7 +57,7 @@ class App extends Component {
 
 	renderDownloadLink = () => (
 		<div className="redeem">
-			<p>Download Link - <a href='https://www.dropbox.com/scl/fo/j414mc629mjypl34dilqa/h?rlkey=fgzvxkplzs10pxv1mxmc86g3j&dl=0' onClick={this.handleLink} target='_blank'>Download</a></p>
+			<p>Download Link - <a href='https://www.dropbox.com/scl/fo/3cx74attvairbe19esrje/AC7hL4mvP2SX485w1BjJxsc?rlkey=n8xwzgglz3u6920didaxf42p4&e=1&dl=0' onClick={this.handleLink} target='_blank'>Download</a></p>
 		</div>
 	)
 	
@@ -96,7 +96,7 @@ class App extends Component {
 					<div className="middle center">
 						<div className="text01">
 							Thank you for purchasing WitchSpring R. This is the Downloadable Soundtrack page to redeem your <br/> 
-							bonus voucher included with first print copies for Nintendo Switch.
+							bonus voucher included with first print copies for PlayStation 5 and/or Nintendo Switch.
 						</div>
 						<div className="text02">
 							**This is not to purchase the actual game. Please do not purchase this item as it is non-refundable<br/> 
